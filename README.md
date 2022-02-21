@@ -1,2 +1,2 @@
 # ElectronicStore
-An electronic and appliances online store made using JavaFx.
+An electronic and appliance online store made using JavaFx.
